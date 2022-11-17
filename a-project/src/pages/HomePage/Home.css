@@ -1,0 +1,10 @@
+
+.rowPosters::-webkit-scrollbar {
+    background: #343338;
+    height: 10px;
+    top: 5px;
+}
+
+.rowPosters::-webkit-scrollbar-thumb {
+    background: #212024;
+}
